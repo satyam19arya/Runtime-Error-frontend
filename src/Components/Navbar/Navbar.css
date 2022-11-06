@@ -1,0 +1,38 @@
+.logo{
+    height: 80px;
+    margin-left: 80px;
+}
+
+.search-btn{
+  padding: 2px 20px;
+}
+
+.navigation-wrap{
+   position: fixed;      /* ---> for fixed navbar */
+   width: 100%;          /* ---> for fixed navbar */
+   left: 0; 
+   z-index: 1;
+   background-color: white;
+   transition: all 0.3s ease-out;
+   -webkit-transition: all 0.3s ease-out;
+}
+
+.navigation-wrap .nav-item{
+    padding: 0 0.625rem;      /* 1rem= 16px */
+    transition: all 200ms linear;
+}
+
+.nav-link{
+    font-size: 0.9374rem;
+    font-weight: 600;
+    text-transform: capitalize;
+    color: var(--primary-color);
+    letter-spacing: 1px;
+}
+
+.log-in{
+    margin-left: 20px;
+    padding: 3px 15px;
+    border-radius: 8px;
+    list-style-type: none;
+}

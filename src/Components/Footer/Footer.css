@@ -1,0 +1,16 @@
+.footer{
+    background-color: var(--primary-color);
+    height: 230px;
+  }
+  
+  .bi{
+    color: white;
+  }
+  
+  .footer-text h4{
+    padding-top: 30px;
+  }
+
+  i{
+    margin: 5px;
+  }

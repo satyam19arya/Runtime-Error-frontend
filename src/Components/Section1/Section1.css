@@ -1,0 +1,14 @@
+.top-banner{
+    width: 100%;
+    background-size: cover;
+    padding: 13.875rem 0 9.375rem;
+}
+
+.top-banner h1{
+  margin-bottom: 2rem;
+}
+
+img{
+    margin-left: 190px;
+    height: 350px;
+}

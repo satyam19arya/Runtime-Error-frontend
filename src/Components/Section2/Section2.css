@@ -1,0 +1,18 @@
+.about-section{
+    background: var(--white-color);
+  }
+  
+  .about-section .card,
+  .about-section .card img{
+    border-radius: 0.525rem;
+  }
+  
+  .about-section .text-sec{
+    padding-left: 2.5rem;
+  }
+
+  .img-fluid{
+    margin-left: 0;
+    margin-right: 70px;
+    
+  }
